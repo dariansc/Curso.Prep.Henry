@@ -1,0 +1,18 @@
+solucion homework js 1 
+
+*variables
+palabra u/o objetos que establezco en mi codigo que podre utilizar despues como dato
+
+*string
+palabra o conjunto de letras que se encierran con comillas es la union o encadenamiento de letras o simbolos 
+
+*funciones 
+conjunto de datos y operadores que utilizo para solucionar un problema 
+donde se presentan ciertos argumentos a operar y le indicamos una salida o solucion por medio de RETURN esperando una respuesta a dica funcion 
+
+*declaraciones IF
+este nos indica que los operadores deben tener una opcion true or false 
+es la declaracion para darnos dos opciones si alo es de x opcion o de la otra 
+
+*valores booleanos 
+estos valores son simples de definir ya que son la respuesta a las declaraciones y tendrar el valor booleano conocido como ,true or false
