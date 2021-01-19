@@ -1,0 +1,13 @@
+Bucles for 
+
+esta es una expresion que evalua una y otra vez hasta que devuelve lo que estamos 
+buscando puede ser los numeros del 1 al 100 o del 1 al 100 pero solo los numeros pares 
+son secuencia que le indicamos a una funcion para encontrar valores
+
+`&&`, ||`, `!`
+
+estos son operadores logicos que nos sirven para preuntar o comparar si dos expresiones
+son verdaderas o falsas, "&&" significa Y si una expresion es verdadera Y otra tambien 
+o viceversa ,|| este significa O si dos expresiones son verdaderas O falsas 
+hacen relevencia en este tipo de comparaciones entre dos expresiones 
+por ultimo "!" me indica lo contrario de la expresion que estemos invocando.
